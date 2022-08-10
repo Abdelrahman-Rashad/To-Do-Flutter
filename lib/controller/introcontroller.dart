@@ -32,7 +32,7 @@ class IntroController extends GetxController {
         imageName: "assets/writing-a-letter-rafiki.png",
         title: "Checklist Finished Task",
         description:
-            "If you cpmpleted your task, so you can view the result you work for each day")
+            "If you completed your task, so you can view the result you work for each day")
   ];
 }
 
